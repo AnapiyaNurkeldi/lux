@@ -1,0 +1,218 @@
+.home {
+/* Главная */
+position: absolute;
+width: 85px;
+height: 20px;
+left: 78px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.services {
+    position: absolute;
+width: 71px;
+height: 20px;
+left: 189px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.our-clients {
+/* Наши гости */
+
+
+position: absolute;
+width: 121px;
+height: 20px;
+left: 286px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.about-us {
+    position: absolute;
+width: 66px;
+height: 20px;
+left: 433px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+
+}
+.contacts {
+
+position: absolute;
+width: 99px;
+height: 20px;
+left: 515px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.logo {
+ position: absolute;
+left: 48.7%;
+right: 48.7%;
+top: 40px;
+/* width: 35px; */
+
+/* background: #FFEA00; */
+}
+.contact {
+    position: absolute;
+width: 159px;
+height: 20px;
+left: 1535px;
+top: 54px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #ffea00;
+
+}
+.buttons:hover {
+    cursor: pointer;
+}
+.header {
+    cursor: pointer;
+}
+.change-lang {
+    position: absolute;
+width: 33px;
+height: 27px;
+/* left: 248px; */
+top: 1px;
+
+}
+.ru {
+
+position: absolute;
+width: 30px;
+height: 27px;
+left: 1748px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFEA00;
+}
+.en {
+
+position: absolute;
+width: 29px;
+height: 27px;
+left: 1784px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFEA00;
+
+}
+.in {
+
+position: absolute;
+width: 22px;
+height: 27px;
+left: 1819px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 27px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFEA00;
+
+}

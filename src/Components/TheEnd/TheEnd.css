@@ -1,0 +1,292 @@
+.end-buttons {
+    position: absolute;
+width: 268px;
+height: 78.13px;
+left: 83px;
+cursor: pointer;
+
+}
+.div-width {
+    position: absolute;
+width: 1905px;
+height: 0px;
+left: 5px;
+bottom: 315px;
+
+border: 3px solid #606060;
+}
+.the-end {
+/* z-index: 9; */
+position: absolute;
+width: 1920px;
+height: 273px;
+background-color: #383838;
+top: 5885px;
+}
+.div-top {
+    position: absolute;
+    width: 313px;
+    height: 0px;
+    left: 457px;
+    /* top: 6111px; */
+    top: 110px;
+    
+    border: 3px solid #606060;
+    transform: rotate(-90deg);
+}
+.div-left {
+    position: absolute;
+width: 313px;
+height: 0px;
+left: 1150px;
+top: 110px;
+border: 3px solid #606060;
+transform: rotate(-90deg);
+}
+.div-last {
+    position: absolute;
+width: 690px;
+height: 0px;
+left: 617px;
+top: 100px;
+
+border: 3px solid #606060;
+}
+.homeend {
+    position: absolute;
+width: 71px;
+height: 15.63px;
+left: 83px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.servicesend {
+    position: absolute;
+width: 147px;
+height: 15.63px;
+left: 83px;
+top: 30.26px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.our-clientsend {
+    position: absolute;
+width: 102px;
+height: 15.63px;
+left: 83px;
+top: 60px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.about-usend {
+    position: absolute;
+width: 49px;
+height: 15.63px;
+left: 270px;
+/* top: 5885px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.contactsend {
+    position: absolute;
+width: 81px;
+height: 15.63px;
+left: 270px;
+top: 30.26px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.numberend {
+    position: absolute;
+width: 156px;
+height: 20px;
+left: 887px;
+/* top: 5881px; */
+bottom: 234px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFEA00;
+
+}
+.emailend {
+    
+position: absolute;
+width: 221px;
+height: 15.63px;
+left: 872px;
+top: 18px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+color: #FFEA00;
+
+}
+.endlogo {
+    
+position: absolute;
+left: 48.39%;
+right: 47.84%;
+/* top: 96.58%; */
+bottom: 31.21%;
+
+}
+.was-did {
+    position: absolute;
+width: 230px;
+height: 40px;
+left: 857px;
+/* top: 6047px; */
+top: 180px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 20px;
+/* or 100% */
+
+text-align: center;
+font-variant: small-caps;
+
+color: rgba(255, 255, 255, 0.1);
+
+}
+.instagramend {
+    position: absolute;
+width: 87px;
+height: 15.63px;
+left: 1537px;
+/* top: 5885px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+
+}
+.telegramend {
+    position: absolute;
+width: 80px;
+height: 15.63px;
+left: 1654px;
+/* top: 5885px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.whatsappend {
+    position: absolute;
+width: 84px;
+height: 15.63px;
+left: 1764px;
+/* top: 5885px; */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.03em;
+font-variant: small-caps;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+
+color: #FFFFFF;
+}
+.telegramchannelend {
+    position: absolute;
+    width: 114px;
+    height: 16px;
+    left: 1734px;
+    /* top: 5914px; */
+    top: 30px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.03em;
+    font-variant: small-caps;
+    font-feature-settings: 'pnum' on, 'lnum' on, 'ordn' on, 'kern' off;
+    
+    color: #FFFFFF;
+    
+
+}
